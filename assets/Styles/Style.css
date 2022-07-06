@@ -28,6 +28,7 @@ main {
    background-color: #FDEFF4;
    padding: 10px;
    overflow: auto;
+
 }
  
 h2,h3 {
@@ -38,6 +39,7 @@ nav {
   background-color: #524A4E;
   padding: 3px;
   position: sticky;
+  z-index: 100;
   top: 0;
 }
 
@@ -137,7 +139,8 @@ footer {
 }
 
 .Experience{
-   padding :20px
+   padding :20px;
+
 
 }
 
@@ -197,6 +200,10 @@ img {vertical-align: middle;}
    aside {
      width: 100%;
      padding: 0;
-   }
+   }    
  }
+
+      
+ 
+ 
  
